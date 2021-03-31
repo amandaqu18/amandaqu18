@@ -28,11 +28,11 @@ I first developed my love for coding and technology from being the most technolo
 # My Pets and I 
 
 **My Turtles**
-![Banner](./DA80C89B-A9A0-46D2-ACED-097A08E02B7F.heic)
+![Banner](./IMG_1676.jpg)
 
 
 **My Dogs**
-![Banner](./E7802A43-6319-44DC-A843-8B3754CEC466.heic)
+![Banner](./IMG_0765.jpg)
 
 **Me**
 ![Banner](./AC614D51-CB6B-450F-B82E-BDAFC087973B.jpeg)
