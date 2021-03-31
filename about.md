@@ -1,90 +1,38 @@
-# About Me 
 
-## Schooling
 
-### High School
+# Schooling
+
+## High School
 
 I went to an all female college preparatory Catholic high school in New York City named Dominican Academy. 
 
 ![Banner](./schooling.jpeg)
 
-### University 
+## University 
 
 I am currently a junior Computer Science major at Quinnipiac University.
 
-## Coding Inspirations 
+# What got me into the field
 
-I first learned computer science my junior year of high school when my technology teacher saw how involved I was with Girls Who Code which I started my sophmore year of high school. In Girls Who Code I developed more of my love for coding and technology that had already grew from being the most technologically advanced person in my family so I became the family issued _IT department_ that was open **24/7**
+I first developed my love for coding and technology from being the most technologically advanced person in my family so I became the family issued _IT department_ that was open **24/7**. I then continued to develop my love with Girls Who Code during my sophmore year of high school which I was extremely involved in until my senior year of high school. Seeing my interest in Girls Who Code, my technology teacher had me enrolled in Computer Science my junior year of high school and from that moment on I knew I wanted to major in Computer Science.
 
-## Welcome to GitHub Pages
+# Facts about Me 
 
-You can use the [editor on GitHub](https://github.com/amandaqu18/amandaqu18/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Age: 20
+- Birthday: September 18th 
+- Zodiac Sign: Virgo
+- 16Personality type: ENFJ
+- Sibilings: 0 (_I prefer it this way_)
+- Pets: 4 (_2 dogs and 2 turtles_)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# My Pets and I 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amandaqu18/amandaqu18/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**My Turtles**
+![Banner](./DA80C89B-A9A0-46D2-ACED-097A08E02B7F.heic)
 
 
+**My Dogs**
+![Banner](./E7802A43-6319-44DC-A843-8B3754CEC466.heic)
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amandaqu18/amandaqu18/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Me**
+![Banner](./AC614D51-CB6B-450F-B82E-BDAFC087973B.jpeg)
