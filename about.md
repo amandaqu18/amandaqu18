@@ -32,7 +32,7 @@ I first developed my love for coding and technology from being the most technolo
 
 
 **My Dogs**
-![Banner](./IMG_0765.jpg)
+![Banner](./IMG104.jpg)
 
 **Me**
 ![Banner](./AC614D51-CB6B-450F-B82E-BDAFC087973B.jpeg)
