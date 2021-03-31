@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Amanda's About Page
 
-You can use the [editor on GitHub](https://github.com/amandaqu18/amandaqu18/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On this website, you will find all the projects Amanda has worked on during her time at Quinnipiac University that involved GitHub.
 
 ### Markdown
 
