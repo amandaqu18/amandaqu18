@@ -1,5 +1,5 @@
 # My Projects 
 
-## Solitare 
+## [Solitare](https://github.com/amandaqu18/CSC)
 
-[Link](https://github.com/amandaqu18/CSC)
+
